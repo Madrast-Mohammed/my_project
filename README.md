@@ -7,10 +7,4 @@
 
 **This is bold text**
 
-*This is Italic Font*
->This is Qoute
-
-
-The background color is `#ffffff` for light mode and #000000 for dark mode.
-
-
+`#0969DA`	
