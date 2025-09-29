@@ -1,10 +1,1 @@
-# Section Heading
-
-Some body text of this section.
-
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
-
-(… more content…)
-
-[A link to that custom anchor](#my-custom-anchor-point)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
