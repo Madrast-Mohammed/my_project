@@ -6,3 +6,5 @@
 ## A second-level heading
 
 **This is bold text**
+
+*This is Italic Font*
